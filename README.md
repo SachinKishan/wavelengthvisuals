@@ -7,5 +7,4 @@ It's very limited right now since I'm only taking integer wavelength values as i
 Demo:
 
 
-https://github.com/SachinKishan/wavelengthvisuals/assets/33657481/26f64dda-8d59-4a38-8c0d-fc6eee75c02e
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](ob/main/demovideo.mp4)]
