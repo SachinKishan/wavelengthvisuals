@@ -7,4 +7,4 @@ It's very limited right now since I'm only taking integer wavelength values as i
 Demo:
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](ob/main/demovideo.mp4)]
+[![Watch the video]()](blob/main/demovideo.mp4)]
